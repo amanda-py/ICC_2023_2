@@ -4,5 +4,4 @@ y = input()
 if x != y:
     print(len(max(x,y)))
 
-if x == y:
-    print(-1)
+print(-1)
